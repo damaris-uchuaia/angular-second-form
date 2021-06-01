@@ -1,0 +1,19 @@
+.input{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  width: 70%;
+  height: 50px;
+  font-size: 40px;
+  border: none;
+  border-bottom: 2px solid rgb(0, 41, 128);
+  position: relative;
+  margin-left: 70px;
+  background-color: hsla(195, 53%, 79%, 0.808);
+
+}
+.input:focus{
+  outline: none;
+}
+
+
